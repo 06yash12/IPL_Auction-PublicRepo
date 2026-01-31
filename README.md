@@ -65,10 +65,6 @@ python app.py
 
 Server starts at `http://127.0.0.1:5000`
 
-## Contributing
-
-Fork the repo, create a feature branch, and submit a pull request. Follow PEP 8 style guidelines.
-
 ## License
 
 Educational and entertainment purposes only.
